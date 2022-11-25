@@ -2,6 +2,9 @@
 College student && self-taught Web developer.<br>I worked on NodeJS, NextJS, React, MongoDB, MySQL, SCSS, Typescript, UI/UX, Figma, JQuery and many more...<br>Singing is my hobby😊😊😊
 
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Kaushan+Script&weight=600&size=40&pause=1000&color=DF4F4E&background=152E45&center=true&vCenter=true&width=800&height=150&lines=I'm+Nirupam;Frontend+Developer;Backend+Developer;Designer" alt="" /></a>
+
+
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/n.sur.94/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nirupam-sur-a24b59227/) 
 
