@@ -1,8 +1,8 @@
-# 🪲🪲🪲 About Me:
-College student && self-taught Web developer.<br>I worked on NodeJS, NextJS, React, MongoDB, MySQL, SCSS, Typescript, UI/UX, Figma, JQuery and many more...<br>Singing is my hobby😊😊😊
+# 🪲🪲🪲 Hello coders be a Programmer:
+🙏🏻MCA student cum Web developer😏.<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I worked on JAVA, SpringBoot, MySQL, NodeJS, NextJS, React, MongoDB, SCSS, Typescript, UI/UX, and many more...<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Singing is my hobby😊😊😊<br><strong><h2>Open to Work</h2></strong></br>
 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Kaushan+Script&weight=600&size=40&pause=1000&color=DF4F4E&background=152E45&center=true&vCenter=true&width=800&height=150&lines=I'm+Nirupam;Frontend+Developer;Backend+Developer;Designer" alt="" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Kaushan+Script&weight=600&size=40&pause=1000&color=897EC6&background=181C29&center=true&vCenter=true&width=800&height=150&lines=Nirupam+Here;Backend+Developer;Designer" alt="" /></a>
 
 
 ## 🌐 Socials:
